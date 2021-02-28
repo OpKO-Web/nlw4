@@ -1,0 +1,39 @@
+.profileContainer {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+
+    background-color: var(--White_Blur);
+    border-radius: 8px;
+    padding: 9px 1rem;
+}
+
+.profileContainer img {
+    width: 3.8rem;
+    height: 5.7rem;
+    /* margin-left: 1rem; */
+}
+
+.profileContainer div{
+    margin-left: 1.5rem;
+   
+}
+
+.profileContainer div strong{
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: var(--White);
+}
+
+.profileContainer div p {
+    color: var(--White);
+    margin: 0.5rem 0;
+        
+}
+
+.profileContainer div p img {
+    width: 0.8rem;
+    height: 1.0rem;
+    margin-right: 0.7rem;
+    
+}

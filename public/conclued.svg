@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0aff05;
+        stroke: #0aff05;
+        stroke-width: 12.76px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #eee;
+        stroke-width: 1.87px;
+      }
+
+      .cls-3 {
+        fill: #eee;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="Elipse_1" data-name="Elipse 1" class="cls-1" cx="75" cy="75" r="68"/>
+  <circle id="Elipse_1_copiar" data-name="Elipse 1 copiar" class="cls-2" cx="75.5" cy="75.5" r="61.5"/>
+  <path id="Retângulo_Arredondado_1" data-name="Retângulo Arredondado 1" class="cls-3" d="M47.163,67.855L78.572,106.88c1.167,1.451-.064,4.252-2.75,6.257s-5.81,2.455-6.978,1L37.435,75.116c-1.168-1.451.064-4.252,2.75-6.257S46,66.4,47.163,67.855Z"/>
+  <path id="Retângulo_Arredondado_1_copiar" data-name="Retângulo Arredondado 1 copiar" class="cls-3" d="M118.484,52.838L77.86,110.805c-1.51,2.155-5.72,2.861-9.4,1.577s-5.445-4.071-3.934-6.226l40.623-57.967c1.51-2.155,5.72-2.861,9.4-1.577S119.994,50.684,118.484,52.838Z"/>
+</svg>
